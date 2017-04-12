@@ -1,13 +1,31 @@
-.my_name_and_skill{
-	text-align: end;
-	font-family: 'Lato', sans-serif;
-	text-transform: uppercase;
-}
+	*{
+		box-sizing: border-box;
+		color:  #2d3c49;
+	}
 
-.work_header{
-	color: #7d97ad;
-}
+	.my_name_and_skill{
+		text-align: end;
+		font-family: 'Pragati Narrow', sans-serif;
+		text-transform: uppercase;
+	}
 
-.title_and_link{
-	text-align: center;
-}
+	.work_header{
+		color: #7d97ad;
+	}
+
+	.title_and_link{
+		text-align: center;
+	}
+
+	.project-title{
+		text-transform: uppercase;
+		color: #2d3c49;
+		font-family: 'Pragati Narrow', sans-serif;
+	}
+
+ 	.line{
+		border-color: #7d97ad;
+   	    height: 3px;
+    	color: #7d97ad; 
+    	background-color: #7d97ad; 
+	}
